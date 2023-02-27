@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Montserrat-Regular copy';
+   font-display: swap;
+   src: url('Montserrat-Regular copy/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Bold copy';
+   font-display: swap;
+   src: url('Montserrat-Bold copy/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-Black copy';
+   font-display: swap;
+   src: url('Montserrat-Black copy/font.ttf');
+}
